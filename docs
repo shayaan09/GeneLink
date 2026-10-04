@@ -1,0 +1,10 @@
+train_edges.tsv
+    known connections we will allow training to use
+
+val_edges.tsv
+    known connections hidden for validation
+
+test_edges.tsv
+    known connections hidden for final testing
+
+
